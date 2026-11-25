@@ -1,4 +1,4 @@
-""" age.y - calculate age next year.
+""" age.py - calculate age next year.
 
 Author: Harry
 Date: 2026-11-24

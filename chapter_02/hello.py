@@ -1,4 +1,4 @@
-""" hello.y - greet the course, then greet the user by name.
+""" hello.py - greet the course, then greet the user by name.
 
 Author: Harry
 Date: 2026-11-24

@@ -1,4 +1,4 @@
-""" age.y - calculate average of 2 numbers.
+""" average.py - calculate average of 2 numbers.
 
 Author: Harry
 Date: 2026-11-24
